@@ -11,7 +11,7 @@ body {
     margin: 0
 }
 a:focus {
-    outline: thin dotted
+    outline: none
 }
 a:active,
 a:hover {
