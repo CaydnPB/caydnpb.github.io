@@ -15,7 +15,7 @@ a:focus {
 }
 a:active,
 a:hover {
-    outline: 0
+    outline: none
 }
 h1 {
     font-size: 2em;
