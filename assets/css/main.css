@@ -41,6 +41,12 @@ body {
     padding: 0;
     cursor: default;
 }
+div#banner { 
+    width: 100%; 
+    text-align: center;
+    background-color: #000000; 
+    padding: 10px;
+}
 .fktJzd *,
 .fktJzd :after,
 .fktJzd :before {
